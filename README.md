@@ -18,8 +18,11 @@
 <br />
 <br />
 - 🔭 I’m currently preparing myself for GSoC 2021.
+<br />
 - 🌱 I’m currently learning MERN stack.
+<br />
 - 📫 How to reach me: arhum602@gmail.com
+<br />
 - ⚡ Fun fact:  I love to learn new things, and I embrace my inner nerd. 🤓
 
 <br />
