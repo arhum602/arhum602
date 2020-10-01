@@ -19,7 +19,7 @@
 <br />
 - 🔭 I’m currently preparing myself for GSoC 2021.
 <br />
-- 🌱 I’m currently learning MERN stack.
+- 🌱 Really proficient in Javascript and Node.js
 <br />
 - 📫 How to reach me: arhum602@gmail.com
 <br />
