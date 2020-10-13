@@ -23,7 +23,7 @@
 <br />
 - 📫 How to reach me: arhum602@gmail.com
 <br />
-- ⚡ Fun fact:  I love to learn new things, and I embrace my inner nerd. 🤓
+- ⚡ Fun fact: I sometimes dream about having a conversation with Isaac Newton about how he really came up with the idea of gravity?! 
 
 <br />
 <br />
