@@ -15,7 +15,10 @@
 </a>
 <br/>
 
-<div class="tenor-gif-embed" data-postid="5822667" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/typing-laptop-cat-busy-cute-gif-5822667">Typing Laptop GIF</a>from <a href="https://tenor.com/search/typing-gifs">Typing GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" /> 
+
+<br/>
+<br/>
 
 ### About
 
