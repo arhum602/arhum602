@@ -1,5 +1,23 @@
-# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+const thisYear = new Date().getFullYear()
+const startTimeOfThisYear = new Date(`${thisYear}-01-01T00:00:00+00:00`).getTime()
+const endTimeOfThisYear = new Date(`${thisYear}-12-31T23:59:59+00:00`).getTime()
+const progressOfThisYear = (Date.now() - startTimeOfThisYear) / (endTimeOfThisYear - startTimeOfThisYear)
+const progressBarOfThisYear = generateProgressBar()
 
+let monthNames = ["Jan","Feb","Mar","Apr", "May","Jun","Jul","Aug", "Sep", "Oct","Nov","Dec"];
+
+function generateProgressBar() {
+    const progressBarCapacity = 30
+    const passedProgressBarIndex = parseInt(progressOfThisYear * progressBarCapacity)
+    const progressBar = Array(progressBarCapacity)
+        .fill('▁')
+        .map((value, index) => index < passedProgressBarIndex ? '█' : value)
+        .join('')
+    return `{ ${progressBar} }`
+}
+
+const readme = `\
+# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 <p align="center">
 <a href="https://www.linkedin.com/in/arhum-khan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="" height="30" width="30" /></a>&nbsp;
 <a href="https://www.instagram.com/arh_um_k/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
@@ -16,7 +34,6 @@
 - 💬 Ask me about anything, I'm glad to help.
 - 👨‍💻 Checkout my [Repositories](https://github.com/arhum602?tab=repositories)
 - 🧑‍💻 Tech I work on :
-
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="65" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
@@ -35,3 +52,5 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arhum602&theme=dark)](https://git.io/streak-stats)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+`
+console.log(readme)
