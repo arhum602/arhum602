@@ -1,11 +1,6 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
-<p align="center">
-<a href="https://www.linkedin.com/in/arhum-khan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="" height="30" width="30" /></a>&nbsp;
-<a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=arhum602@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="apoorv#4040" height="40" width="30" /></a>
-</p>
-
-![](https://media.giphy.com/media/qPa9vUYCUrx6w/giphy.gif)
+![](coder.gif)
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 💻 Software Development Engineer @Radisys.
 - 🙋‍♂️ Graduated from IIIT Lucknow, India.
@@ -30,8 +25,37 @@
 
 </p>
 
-### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arhum602&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arhum602&theme=dark)](https://git.io/streak-stats)
+### 📊 My GitHub Stats:
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/arhum602">
+          <img src="https://github-readme-stats.vercel.app/api?username=arhum602&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true" alt="Arhum's GitHub Stats" width="400" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arhum602&layout=compact&text_color=daf7dc&bg_color=151515" alt="Top Languages" width="400" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <a href="https://git.io/streak-stats">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=arhum602&theme=dark" alt="GitHub Streak" width="800" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### 📞 Reach Me:
+<p align="center">
+  <a href="https://www.linkedin.com/in/arhum-khan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" /></a>&nbsp;
+  <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=arhum602@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" height="40" width="30" /></a>
+</p>
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
