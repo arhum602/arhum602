@@ -25,32 +25,6 @@
 
 </p>
 
-### 📊 My GitHub Stats:
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/arhum602">
-          <img src="https://github-readme-stats.vercel.app/api?username=arhum602&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true" alt="Arhum's GitHub Stats" width="400" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arhum602&layout=compact&text_color=daf7dc&bg_color=151515" alt="Top Languages" width="400" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <a href="https://git.io/streak-stats">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=arhum602&theme=dark" alt="GitHub Streak" width="800" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
 ### 📞 Reach Me:
 <p align="center">
   <a href="https://www.linkedin.com/in/arhum-khan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" /></a>&nbsp;
